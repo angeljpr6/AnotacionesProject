@@ -28,9 +28,9 @@ import androidx.compose.ui.graphics.vector.rememberVectorPainter
 import androidx.compose.ui.unit.dp
 import androidx.navigation.NavController
 import com.example.anotacionesproject.viewModel.NotesViewModel
-import com.example.blognotas.components.CronCard
-import com.example.blognotas.components.FloatButton
-import com.example.blognotas.components.MainTitle
+import com.example.anotacionesproject.components.CronCard
+import com.example.anotacionesproject.components.FloatButton
+import com.example.anotacionesproject.components.MainTitle
 import me.saket.swipe.SwipeAction
 import me.saket.swipe.SwipeableActionsBox
 

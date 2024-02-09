@@ -11,7 +11,6 @@ import androidx.compose.material.icons.filled.ArrowBack
 import androidx.compose.material3.Button
 import androidx.compose.material3.CenterAlignedTopAppBar
 import androidx.compose.material3.ExperimentalMaterial3Api
-import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Scaffold
 import androidx.compose.material3.Text
 import androidx.compose.material3.TopAppBarDefaults
@@ -25,9 +24,9 @@ import androidx.navigation.NavController
 import com.example.anotacionesproject.model.Notes
 import com.example.anotacionesproject.viewModel.BlogNotesViewModel
 import com.example.anotacionesproject.viewModel.NotesViewModel
-import com.example.blognotas.components.MainIconButton
-import com.example.blognotas.components.MainTextField
-import com.example.blognotas.components.MainTitle
+import com.example.anotacionesproject.components.MainIconButton
+import com.example.anotacionesproject.components.MainTextField
+import com.example.anotacionesproject.components.MainTitle
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable

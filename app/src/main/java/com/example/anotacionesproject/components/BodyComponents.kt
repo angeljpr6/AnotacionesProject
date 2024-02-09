@@ -1,4 +1,4 @@
-package com.example.blognotas.components
+package com.example.anotacionesproject.components
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.border

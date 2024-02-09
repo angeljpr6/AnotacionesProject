@@ -1,4 +1,4 @@
-package com.example.blognotas.components
+package com.example.anotacionesproject.components
 
 import androidx.compose.foundation.layout.PaddingValues
 import androidx.compose.foundation.layout.padding

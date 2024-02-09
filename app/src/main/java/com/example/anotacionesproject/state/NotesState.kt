@@ -1,4 +1,4 @@
-package com.example.blognotas.state
+package com.example.anotacionesproject.state
 
 data class NotesState(
     val title: String,
